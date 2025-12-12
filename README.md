@@ -109,6 +109,7 @@ Whenever you update your website:
 
 ```text
 /*
+```
 This refreshes all cached content globally.
 
 🌍 Live Website URL
