@@ -121,7 +121,6 @@ This is the default CloudFront domain and includes FREE HTTPS automatically — 
 index.html   # Resume webpage
 README.md    # Project documentation
 ```
-
 ⭐ Future Enhancements (Optional)
 
 You can extend this project by adding:
