@@ -118,7 +118,7 @@ This is the default CloudFront domain and includes FREE HTTPS automatically — 
 
 ## 📄 Files in This Project
 
-```text
+```
 index.html   # Resume webpage
 README.md    # Project documentation
 ```
