@@ -120,6 +120,7 @@ This is the default CloudFront domain and includes FREE HTTPS automatically — 
 ```text
 index.html   # Resume webpage
 README.md    # Project documentation
+```
 
 ⭐ Future Enhancements (Optional)
 
