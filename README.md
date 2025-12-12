@@ -101,6 +101,7 @@ Use this policy (replace `<ACCOUNT-ID>` and `<DISTRIBUTION-ID>`):
     }
   ]
 }
+
 This ensures only CloudFront can access your S3 bucket.
 
 4️⃣ Invalidate CloudFront Cache
