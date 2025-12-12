@@ -108,7 +108,7 @@ This ensures only CloudFront can access your S3 bucket.
 Whenever you update your website:
 
 ```text
-/*
+`/*`
 ```
 This refreshes all cached content globally.
 
